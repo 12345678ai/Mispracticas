@@ -1,6 +1,9 @@
 p{
 
 	color :blue;
+	font-family: arial;
+
+
 	
 }
 
@@ -18,7 +21,14 @@ p{
 	color :black;
 	
 }
+p{
 
+	
+	ont-family: arial;
+
+color:black;
+font*size: 24px;
+}
 H2{
 	
 	
@@ -31,7 +41,8 @@ font*size: 24px;
 
 tr{
 
-	color :green
+	color :black
+	font*size: 24px;
 	
 }
 p{
