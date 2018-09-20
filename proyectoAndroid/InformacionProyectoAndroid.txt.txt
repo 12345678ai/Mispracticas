@@ -1,0 +1,43 @@
+entro de la carpeta cómputo2
+      Crear una carpeta llamada "proyectoAndroid"
+      Crear dentro de "ProyectoAndroid" un archivo llamado "InformaciónProyectoAndroid.txt"
+Pensar en un problema pequeño a resolver que permita registrar en una base de datos.
+
+---------------------
+
+Escribir en ese documento la idea de su pequeño proyecto, avisarme fuera del horario de clases para que lo revisemos y veamos los pro y contras sobre la idea para que la formalicemos y le podamos dar el OK para el siguiente paso. (Fecha límite jueves 27 de septiembre 2018)
+
+---------------------
+
+Para ir avanzando instalen lo siguiente en su computador.
+
+
+
+MI IDE PRINCIPAL SOBRE MI PROYECTO ES PARA UNA BETERINARIA 
+YA QUE EN ESTE DORMULARIO SE LE PEDIRA AL DUEÑO LOS DATOS REQUERIDOS
+
+
+
+REGISTRO CANILO/FELINO
+NOMBRE___________________________________________________________
+EDAD ____________________________________________________________
+NOMBRE DEL DUEÑO_________________________________________________
+CONCATO DEL DUEÑO________________________________________________
+DIAGNOSTICO DE LA MASCOTA _______________________________________
+ENVIAR DATOS_____________________________________________________
+
+EN TE FORMULARIO SE MOSTRARA AL USURAIO EL REGISTRO DE DE MASCOTAS 
+
+
+
+
+ 
+			
+			
+			
+			
+			
+			
+			
+			
+			
